@@ -1,0 +1,3 @@
+1) source is on prem and target also in on prem, can i use ADF with self hosted IR to achive this ?
+
+2) In onprem i have SSIS packages, i would like to use ADF to run this package is by using SSIS IR. 
